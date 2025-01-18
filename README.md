@@ -1,0 +1,1 @@
+This repository demonstrates a bug in React Router Dom v6 related to nested routes and parameters. The bug causes intermittent and unexpected routing behavior, specifically when navigating to routes with parameters nested within other routes.  The solution provides a workaround to resolve the issue.
